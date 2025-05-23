@@ -1,7 +1,7 @@
 ## 
 
 ```ts
-const Raye = {
+const Dempserayo = {
   role: "Frontend Developer",
   stack: ["Angular", "Tailwind", "TypeScript"],
   currentlyLearning: ["NestJS", "Cloud (Azure)"],
