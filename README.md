@@ -11,10 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark"
-      width="100%"
-    />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
