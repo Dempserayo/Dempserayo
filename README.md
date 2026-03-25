@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="24" alt="typescript logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="24" alt="nestjs logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
-</div>
+</div> -->
 
 ##
 
