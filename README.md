@@ -19,15 +19,14 @@
 
 
 <img width="1415" height="1000" alt="image" src="https://github.com/user-attachments/assets/2ed4e683-d08e-49c3-975f-be8016447214" />
+ 
 
-
-###
 <!-- <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-</p> -->
-
+</p> 
+ -->
 
 
 
