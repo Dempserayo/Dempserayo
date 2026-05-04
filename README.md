@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="24" alt="nestjs logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
-</div>  -->    fa
+</div>  -->    faaa
 
 
  <img width="1415" height="1000" alt="image" src="https://github.com/user-attachments/assets/2ed4e683-d08e-49c3-975f-be8016447214" /> 
